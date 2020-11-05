@@ -4,6 +4,7 @@
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="Button" type="PLAIN_TEXT" />
+      <mapping pattern=".env.real-production" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".depcheckrc" type="PLAIN_TEXT" />
