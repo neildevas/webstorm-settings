@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'scouts'" />
-    <option name="defaultScopeName" value="Project 'scouts'" />
-    <option name="SEARCH_SCOPE" value="Project 'scouts'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>.ts</mask>
     <mask>*.tsx, *.ts, *.js</mask>
     <mask>*.tsx, *.ts, *.js, *.sh</mask>
